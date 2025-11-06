@@ -2,7 +2,7 @@
 
 # Projeto **"Controla$EU"**
 
-![Marca](/images/marcacontrolaseu.png)
+![Marca](profile/images/marcacontrolaseu.png)
 
 **Autores:**
 
@@ -158,7 +158,7 @@ Para esse projeto serão usadas as linguagens de programação HTML, CSS e JavaS
 
 ## – Modelo Canvas do Projeto:
 
-![ModeloCanvas](/images/modecanvasatualizado.png)
+![ModeloCanvas](profile/images/modecanvasatualizado.png)
 
 ## – Proposta de Valor:
 
@@ -192,7 +192,7 @@ Para esse projeto serão usadas as linguagens de programação HTML, CSS e JavaS
 
 ## – Paleta de cores:
 
-![Paleta De Cores](/images/paletapi.png)
+![Paleta De Cores](profile/images/paletapi.png)
 
 <br>
 
