@@ -12,13 +12,17 @@
 
 <hr>
 
+<div align= "center">
+
 # **Objetivo**
 
-O projeto _”Controla$eu”_ é focado em auxiliar pessoas jurídicas/físicas (especialmente jovens) a assumirem o controle de suas finanças de forma simples e intuitiva.
+O projeto _”Controla$EU”_ é focado em auxiliar pessoas jurídicas/físicas (especialmente jovens) a assumirem o controle de suas finanças de forma simples e intuitiva. O projeto foi criado pois notamos, através de dados e notícias, que o número de indivíduos que não conseguem monitorar seu dinheiro de forma prudente e responsável vem crescendo ao longo dos anos, e, dentre esses indivíduos, jovens pertencentes à chamada _"Geração Z"_ acabam se destacando. Como o site da Folha de Pernambuco mostra [nesta matéria](https://www.folhape.com.br/colunistas/folha-financas/quase-metade-da-geracao-z-nao-controla-suas-financas-diz-pesquisa/51045), quase metade da _"Geração Z"_ *não* controla suas finanças.
 
 # **Metodologias**
 
-Para esse projeto serão usadas as linguagens de programação HTML, CSS e JavaScript, modelos de processo ágeis Kanban e Scrum. Para o design do projeto serão usadas as ferramentas Figma e Photoshop.
+Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e JavaScript, modelos de processo ágeis Kanban e Scrum. Para o design do projeto serão usadas as ferramentas Figma e Photoshop.
+
+</div>
 
 <hr>
 
@@ -160,11 +164,11 @@ Para esse projeto serão usadas as linguagens de programação HTML, CSS e JavaS
 
 ![ModeloCanvas](/profile/images/modecanvasatualizado.png)
 
-## – Proposta de Valor:
+### – Proposta de Valor:
 
 - O gerenciador financeiro criado visa capacitar jovens universitários ou jovens adultos a administrarem suas finanças de modo intuitivo e organizado, à fim de desenvolver também a educação financeira dos usuários.
 
-## – Para quem?
+### – Para quem?
 
 - O software criado têm como público-alvo jovens universitários, jovens adultos e talvez pequenas empresas;
 
@@ -172,7 +176,7 @@ Para esse projeto serão usadas as linguagens de programação HTML, CSS e JavaS
 
 - Os canais pelo que o software atuará serão serviços de hospedagem dedicados.
 
-## – Como? 
+### – Como? 
 
 - Os principais parceiros do projeto são a [Fatec Jaú](https://fatecjahu.edu.br) e, no futuro, empresas de contabilidade;
 
@@ -180,7 +184,7 @@ Para esse projeto serão usadas as linguagens de programação HTML, CSS e JavaS
 
 - Os recursos principais para o sucesso do projeto são computadores, servidores dedicados, sites na Web e anúncios on-line.
 
-## – Custos:
+### – Custos:
 
 - Os maiores gastos serão com cibersegurança, manutenção da página, constantes atualizações e à equipe de suporte dedicada.
 
@@ -224,11 +228,13 @@ Fontes opcionais: Usadas em botões, citações ou no nome da própria marca.
 
 - BRASIL. Lei Geral de Proteção de Dados (LGPD): Lei nº 13.709, de 14 de agosto de 2018.
 
-- CNN, Maioria dos brasileiros não conseguem guardar dinheiro. [Matéria disponível.](https://www.cnnbrasil.com.br/economia/financas/maioria-dos-brasileiros-nao-consegue-guardar-dinheiro-mostra-pesquisa/)
+- CNN, "Maioria dos brasileiros não conseguem guardar dinheiro". [Matéria disponível.](https://www.cnnbrasil.com.br/economia/financas/maioria-dos-brasileiros-nao-consegue-guardar-dinheiro-mostra-pesquisa/)
 
-- FUNPRESP, 90% dos brasileiros admitem necessidade de educação financeira. [Matéria disponível.](https://www.funprespjud.com.br/90-dos-brasileiros-admitem-ter-necessidade-de-educacao-financeira/)
+- FUNPRESP, "90% dos brasileiros admitem necessidade de educação financeira". [Matéria disponível.](https://www.funprespjud.com.br/90-dos-brasileiros-admitem-ter-necessidade-de-educacao-financeira/)
 
-- FIGMA. Disponível em <https://www.figma.com>
+- FOLHA, "Quase metade da Geração Z não controla suas finanças". [Matéria disponível.](https://www.folhape.com.br/colunistas/folha-financas/quase-metade-da-geracao-z-nao-controla-suas-financas-diz-pesquisa/51045)
 
-- SEBRAE. Disponível em <https://canvas-apps.pr.sebrae.com.br>
+- FIGMA. Disponível em <https://www.figma.com>.
+
+- SEBRAE. Disponível em <https://canvas-apps.pr.sebrae.com.br>.
 
