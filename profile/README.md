@@ -12,11 +12,55 @@
 
 <hr>
 
+# – Âncoras:
+
+- ## [Objetivo:](#objetivo)
+
+- ## [Metodologias:](#metodologias)
+
+- ## [Requisitos](#requisitos)
+  - ### [Requisitos Funcionais:](#-requisitos-funcionais-rf)
+
+  - ### [Requisitos Não-Funcionais:](#-requisitos-não-funcionais-rnf)
+
+- ## [Estudo de Viabilidade](#estudo-de-viabilidade-do-projeto)
+  - ### [Viabilidade Técnica:](#-1-viabilidade-técnica)
+
+  - ### [Viabilidade Financeira:](#-2-viabilidade-financeira)
+
+  - ### [Viabilidade de Mercado:](#-3-viabilidade-de-mercado)
+
+  - ### [Viabilidade Operacional:](#-4-viabilidade-operacional)
+
+- ## [Regras de Negócio](#regras-de-negócio)
+  - ### [Modelo Canvas:](#-modelo-canvas-do-projeto)
+
+  - ### [Proposta de Valor:](#-proposta-de-valor)
+
+  - ### [Para quem?](#-para-quem)
+
+  - ### [Como?](#-como)
+
+  - ### [Custos:](#-custos)
+
+- ## [Design](#design-do-projeto)
+  - ### [Paleta de Cores](#-paleta-de-cores)
+
+  - ### [Wireframes](#-wireframes)
+
+  - ### [Protótipo](#-protótipo-do-projeto)
+
+  - ### [Tipografia](#-tipografia)
+
+- ## [Referências e Fontes](#-referências-e-fontes-utilizadas)
+
+<hr>
+
 <div align= "center">
 
 # **Objetivo**
 
-O projeto _”Controla$EU”_ é focado em auxiliar pessoas jurídicas/físicas (especialmente jovens) a assumirem o controle de suas finanças de forma simples e intuitiva. O projeto foi criado pois notamos, através de dados e notícias, que o número de indivíduos que não conseguem monitorar seu dinheiro de forma prudente e responsável vem crescendo ao longo dos anos, e, dentre esses indivíduos, jovens pertencentes à chamada _"Geração Z"_ acabam se destacando. Como o site da Folha de Pernambuco mostra [nesta matéria](https://www.folhape.com.br/colunistas/folha-financas/quase-metade-da-geracao-z-nao-controla-suas-financas-diz-pesquisa/51045), quase metade da _"Geração Z"_ **não** controla suas finanças.
+O projeto _”Controla$EU”_ é focado em auxiliar pessoas jurídicas/físicas (especialmente jovens) a assumirem o controle de suas finanças de forma simples e intuitiva. O projeto foi criado pois notamos, através de dados e notícias, que o número de indivíduos que não conseguem monitorar seu dinheiro de forma prudente e responsável vem crescendo ao longo dos anos, e, dentre esses indivíduos, jovens pertencentes à chamada _"Geração Z"_ acabam se destacando. Como o site da [Folha de Pernambuco](https://www.folhape.com.br) mostra [nesta matéria](https://www.folhape.com.br/colunistas/folha-financas/quase-metade-da-geracao-z-nao-controla-suas-financas-diz-pesquisa/51045), quase metade da _"Geração Z"_ **não** controla suas finanças.
 
 # **Metodologias**
 
@@ -201,6 +245,12 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 <br>
 
 ## – Wireframes:
+
+<br>
+
+## – Protótipo do Projeto:
+
+
 
 <br>
 
