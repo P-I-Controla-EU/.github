@@ -16,7 +16,7 @@
 
 # **Objetivo**
 
-O projeto _”Controla$EU”_ é focado em auxiliar pessoas jurídicas/físicas (especialmente jovens) a assumirem o controle de suas finanças de forma simples e intuitiva. O projeto foi criado pois notamos, através de dados e notícias, que o número de indivíduos que não conseguem monitorar seu dinheiro de forma prudente e responsável vem crescendo ao longo dos anos, e, dentre esses indivíduos, jovens pertencentes à chamada _"Geração Z"_ acabam se destacando. Como o site da Folha de Pernambuco mostra [nesta matéria](https://www.folhape.com.br/colunistas/folha-financas/quase-metade-da-geracao-z-nao-controla-suas-financas-diz-pesquisa/51045), quase metade da _"Geração Z"_ *não* controla suas finanças.
+O projeto _”Controla$EU”_ é focado em auxiliar pessoas jurídicas/físicas (especialmente jovens) a assumirem o controle de suas finanças de forma simples e intuitiva. O projeto foi criado pois notamos, através de dados e notícias, que o número de indivíduos que não conseguem monitorar seu dinheiro de forma prudente e responsável vem crescendo ao longo dos anos, e, dentre esses indivíduos, jovens pertencentes à chamada _"Geração Z"_ acabam se destacando. Como o site da Folha de Pernambuco mostra [nesta matéria](https://www.folhape.com.br/colunistas/folha-financas/quase-metade-da-geracao-z-nao-controla-suas-financas-diz-pesquisa/51045), quase metade da _"Geração Z"_ **não** controla suas finanças.
 
 # **Metodologias**
 
