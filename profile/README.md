@@ -14,16 +14,16 @@
 
 # – Âncoras:
 
-- ##### [Objetivo:](#objetivo)
+- #### [Objetivo:](#objetivo)
 
-- ##### [Metodologias:](#metodologias)
+- #### [Metodologias:](#metodologias)
 
-- ##### [Requisitos](#requisitos-do-projeto)
+- #### [Requisitos](#requisitos-do-projeto)
   - [Requisitos Funcionais:](#-requisitos-funcionais-rf)
 
   - [Requisitos Não-Funcionais:](#-requisitos-não-funcionais-rnf)
 
-- ##### [Estudo de Viabilidade](#estudo-de-viabilidade-do-projeto)
+- #### [Estudo de Viabilidade](#estudo-de-viabilidade-do-projeto)
   - [Viabilidade Técnica:](#-1-viabilidade-técnica)
 
   - [Viabilidade Financeira:](#-2-viabilidade-financeira)
@@ -32,7 +32,7 @@
 
   - [Viabilidade Operacional:](#-4-viabilidade-operacional)
 
-- ##### [Regras de Negócio](#regras-de-negócio)
+- #### [Regras de Negócio](#regras-de-negócio)
   - [Modelo Canvas:](#-modelo-canvas-do-projeto)
 
   - [Proposta de Valor:](#-proposta-de-valor)
@@ -43,7 +43,7 @@
 
   - [Custos:](#-custos)
 
-- ##### [Design](#design-do-projeto)
+- #### [Design](#design-do-projeto)
   - [Paleta de Cores](#-paleta-de-cores)
 
   - [Wireframes](#-wireframes)
@@ -52,7 +52,7 @@
 
   - [Tipografia](#-tipografia)
 
-- ##### [Referências e Fontes](#-referências-e-fontes-utilizadas)
+- #### [Referências e Fontes](#-referências-e-fontes-utilizadas)
 
 <hr>
 
