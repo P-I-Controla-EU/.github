@@ -272,10 +272,7 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 | **Cor 3** | Azul de confirmação | #0b5ed7 | <span style="color: #0b5ed7;">teste</span> |
 | **Cor 4** | Verde claro | #0bc72d | <span style="color: #0bc72d;">teste</span> | 
 | **Cor 5** | Cinza claro  | #d4d4d4 | <span style="color: #d4d4d4;">teste</span> |   
-| **Cor 6** | Cinza escuro | #212121 | <span style="color: #212121;">teste</span> |
-
-
-<br>
+| **Cor 6** | Cinza escuro | #212121 | <span style="color: #212121;">teste</span> | <br>
 
 ## – Wireframes:
 
