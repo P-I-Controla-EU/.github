@@ -14,9 +14,9 @@
 
 # Sumário:
 
-- ### [Objetivo:](#objetivo)
+- ### [Objetivo](#objetivo)
 
-- ### [Metodologias:](#metodologias)
+- ### [Metodologias](#metodologias)
 
 - ### [Requisitos](#requisitos-do-projeto)
   - [Requisitos Funcionais:](#-requisitos-funcionais-rf)
