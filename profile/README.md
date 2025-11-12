@@ -52,7 +52,7 @@
 
   - [Tipografia](#-tipografia)
 
-- ### [Referências e Fontes](#-referências-e-fontes-utilizadas)
+- ### [Referências e Fontes](#referências-e-fontes-utilizadas)
 
 <hr>
 
