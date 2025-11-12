@@ -313,6 +313,12 @@ Fontes opcionais: Usadas em botões, citações ou no nome da própria marca.
 
 - FOLHA, "Quase metade da Geração Z não controla suas finanças". [Matéria disponível.](https://www.folhape.com.br/colunistas/folha-financas/quase-metade-da-geracao-z-nao-controla-suas-financas-diz-pesquisa/51045)
 
+- TREASY, "Organizze alcança 64% da meta em apenas seis meses com planejamento e orçamento". [Matéria disponível.](https://www.treasy.com.br/blog/organizze)
+
+- DIARIODONORDESTE, "Fintec cearense Mobills é vendida a plataforma de investimentos do Santander". [Matéria disponível.](https://diariodonordeste.verdesmares.com.br/negocios/fintech-cearense-mobills-e-vendida-a-plataforma-de-investimentos-do-santander-1.3098938)
+
+- PORTALERP, "Kamino capta R$54 milhões e mira avanço entre médias empresas brasileiras". [Matéria disponível.](https://portalerp.com/kamino-capta-r54-milhoes-e-mira-avanco-entre-medias-empresas-brasileiras)
+
 - FIGMA. Disponível em <https://www.figma.com>.
 
 - SEBRAE. Disponível em <https://canvas-apps.pr.sebrae.com.br>.
