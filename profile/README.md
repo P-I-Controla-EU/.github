@@ -12,7 +12,7 @@
 
 <hr>
 
-# – Sumário:
+# Sumário:
 
 - ### [Objetivo:](#objetivo)
 
@@ -68,6 +68,12 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 
 </div>
 
+<div align= "end">
+
+[Voltar ao sumário.](#sumário)
+
+</div>
+
 <hr>
 
 # **Requisitos do Projeto.**
@@ -107,6 +113,13 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
   O sistema deve apresentar navegação interna intuitiva e consistente, a fim de confortar e satisfazer o usuário.
 - **RNF06 – Boa performance:**
   O sistema e suas diferentes páginas devem carregar e salvar informações de maneira rápida.
+
+<div align= "end">
+
+[Voltar ao sumário.](#sumário)
+
+</div>
+
 
 <hr>
 
@@ -200,6 +213,12 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 
   - Regulamentações financeiras caso haja transações integradas.
 
+<div align= "end">
+
+[Voltar ao sumário.](#sumário)
+
+</div>
+
 <hr>
 
 # **Regras de Negócio.**
@@ -233,6 +252,12 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 - Os maiores gastos serão com cibersegurança, manutenção da página, constantes atualizações e à equipe de suporte dedicada.
 
 - As fontes de receita da aplicação serão anúncios na página da Web e planos por assinatura.
+
+<div align= "end">
+
+[Voltar ao sumário.](#sumário)
+
+</div>
 
 <hr>
 
@@ -269,6 +294,12 @@ Fontes de Destaque: Fontes para títulos ou cabeçalhos.
 Fontes opcionais: Usadas em botões, citações ou no nome da própria marca.
 
 > _Pacifico ou Lobster._
+
+<div align= "end">
+
+[Voltar ao sumário.](#sumário)
+
+</div>
 
 <hr>
 
