@@ -265,7 +265,15 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 
 ## – Paleta de cores:
 
-![Paleta De Cores](/profile/images/paletapi.png)
+|   | Nome  | Código HEX  | Preview|  
+|--:|-------|-------------|--------| 
+| **Cor 1** | Azul escuro | #5e78ff | <span style="color: #5e78ff;">teste</span> |   
+| **Cor 2** | Azul claro  | #1bb2f4 | <span style="color: #1bb2f4;">teste</span> |   
+| **Cor 3** | Azul de confirmação | #0b5ed7 | <span style="color: #0b5ed7;">teste</span> |
+| **Cor 4** | Verde claro | #0bc72d | <span style="color: #0bc72d;">teste</span> | 
+| **Cor 5** | Cinza claro  | #d4d4d4 | <span style="color: #d4d4d4;">teste</span> |   
+| **Cor 6** | Cinza escuro | #212121 | <span style="color: #212121;">teste</span> |
+
 
 <br>
 
