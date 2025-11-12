@@ -189,7 +189,7 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 
 - **3.2. Concorrência:**
 
-  - [_Organizze_](https://www.organizze.com.br/), [_Mobills_](https://www.mobills.com.br/);
+  - [_Organizze_](https://www.organizze.com.br/), [_Mobills_](https://www.mobills.com.br/), [_Kamino_](https://kamino.com.br);
 
   - Diferenças potenciais: Foco em usabilidade, integração com PIX e bancos via _Open Finance_, inteligência artificial para a previsão de gastos;
 
