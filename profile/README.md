@@ -276,7 +276,19 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 
 ## – Wireframes:
 
-<br>
+### Desktop
+
+![Pagina Inicial-sobre](/profile/images/wireframedesktopsobre.png)
+Página inicial - Sobre.
+
+![Pagina Inicial-planos](/profile/images/wireframedesktopplanos.png)
+Página inicial - Assinaturas
+
+![Pagina Inicial-quemsomos](/profile/images/wireframedesktopquemsomos.png)
+Página inicial - Quem somos?
+
+![Pagina Inicial-contatoefooter](/profile/images/wireframedesktopcontatoefinal.png)
+Página inicial - Contato e Footer.  <br>
 
 ## – Protótipo do Projeto:
 
