@@ -276,7 +276,7 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 
 ## – Wireframes:
 
-### Desktop
+### – Desktop
 
 ![Pagina Inicial-sobre](/profile/images/wireframedesktopsobre.png)
 Página inicial - Sobre.
