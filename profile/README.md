@@ -267,12 +267,12 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 
 |   | Nome  | Código HEX  | Preview|  
 |--:|-------|-------------|--------| 
-| **Cor 1** | Azul escuro | #5e78ff | <span style="color: #5e78ff;">teste</span> |   
-| **Cor 2** | Azul claro  | #1bb2f4 | <span style="color: #1bb2f4;">teste</span> |   
-| **Cor 3** | Azul de confirmação | #0b5ed7 | <span style="color: #0b5ed7;">teste</span> |
-| **Cor 4** | Verde claro | #0bc72d | <span style="color: #0bc72d;">teste</span> | 
-| **Cor 5** | Cinza claro  | #d4d4d4 | <span style="color: #d4d4d4;">teste</span> |   
-| **Cor 6** | Cinza escuro | #212121 | <span style="color: #212121;">teste</span> | <br>
+| **Cor 1** | Azul escuro | #5e78ff | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%235e78ff)|   
+| **Cor 2** | Azul claro  | #1bb2f4 |![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%231bb2f4)|   
+| **Cor 3** | Azul de confirmação | #0b5ed7 |![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%230b5ed7)|
+| **Cor 4** | Verde claro | #0bc72d |![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%230bc72d)| 
+| **Cor 5** | Cinza claro  | #d4d4d4 |![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%23d4d4d4)|   
+| **Cor 6** | Cinza escuro | #212121 |![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%23212121)| <br>
 
 ## – Wireframes:
 
