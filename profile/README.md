@@ -169,7 +169,7 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 
   - Planos premium;
 
-  - Parcerias com instituições financeiras.
+  - Parcerias com instituições financeiras;
 
   - Anúncios na página.
 
@@ -249,7 +249,7 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 
 ### – Custos:
 
-- Os maiores gastos serão com cibersegurança, manutenção da página, constantes atualizações e à equipe de suporte dedicada.
+- Os maiores gastos serão com cibersegurança, manutenção da página, constantes atualizações e à equipe de suporte dedicada;
 
 - As fontes de receita da aplicação serão anúncios na página da Web e planos por assinatura.
 
