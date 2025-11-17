@@ -282,7 +282,7 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 Página inicial - Sobre.
 
 ![Pagina Inicial-planos](/profile/images/wireframedesktopplanos.png)
-Página inicial - Assinaturas
+Página inicial - Assinaturas.
 
 ![Pagina Inicial-quemsomos](/profile/images/wireframedesktopquemsomos.png)
 Página inicial - Quem somos?
