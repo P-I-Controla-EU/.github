@@ -288,7 +288,16 @@ Página inicial - Assinaturas.
 Página inicial - Quem somos?
 
 ![Pagina Inicial-contatoefooter](/profile/images/wireframedesktopcontatoefinal.png)
-Página inicial - Contato e Footer.  <br>
+Página inicial - Contato e Footer.  
+
+![Pagina Login](/profile/images/wireframelogin.png) 
+Página de Login. 
+
+![Pagina Cadastro](/profile/images/wireframecadastro.png)
+Página de Cadastro. 
+
+![Dashboard](/profile/images/wireframedashboard.png)
+Dashboard do Usuário. <br>
 
 ## – Protótipo do Projeto:
 
