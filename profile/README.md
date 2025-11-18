@@ -301,7 +301,7 @@ Dashboard do Usuário.
 
 ## – Protótipo do Projeto:
 
-Protótipo disponível no [Figma](https://www.figma.com/proto/7gpuIwBSHH2NBlRuLM9blK/Wireframes-Mobile---P%C3%A1gina-Inicial?node-id=0-1&t=fG0od16AZwWbzkgg-1).
+Protótipo disponível no [Figma](https://www.figma.com/proto/7gpuIwBSHH2NBlRuLM9blK/Wireframes-Mobile---P%C3%A1gina-Inicial?node-id=0-1&t=DE77p1YVkD4nhIw7-1).
 
 ## – Tipografia:
 
