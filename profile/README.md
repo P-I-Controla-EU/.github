@@ -272,7 +272,7 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 | **Cor 3** | Azul de confirmação | #0b5ed7 |![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%230b5ed7)|
 | **Cor 4** | Verde claro | #0bc72d |![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%230bc72d)| 
 | **Cor 5** | Cinza claro  | #d4d4d4 |![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%23d4d4d4)|   
-| **Cor 6** | Cinza escuro | #212121 |![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%23212121)| <br>
+| **Cor 6** | Cinza escuro | #212121 |![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%23212121)|
 
 ## – Wireframes:
 
@@ -297,11 +297,11 @@ Página de Login.
 Página de Cadastro. 
 
 ![Dashboard](/profile/images/wireframedashboard.png)
-Dashboard do Usuário. <br>
+Dashboard do Usuário. 
 
 ## – Protótipo do Projeto:
 
-<br>
+Protótipo disponível no [Figma](https://www.figma.com/proto/7gpuIwBSHH2NBlRuLM9blK/Wireframes-Mobile---P%C3%A1gina-Inicial?node-id=0-1&t=fG0od16AZwWbzkgg-1).
 
 ## – Tipografia:
 
