@@ -303,8 +303,8 @@ Dashboard do Usuário.
 
 Protótipos disponíveis no [_Figma_](https://www.figma.com).
 
-- Desktop: [Link](https://www.figma.com/proto/YcwMepwiNQC3N8HrhoIdb9/Prot%C3%B3tipo-Desktop?page-id=0%3A1&node-id=1-20&p=f&viewport=-682%2C226%2C0.24&t=zMXBcIY22DfxSbhH-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A20)
-- Mobile: [Link](https://www.figma.com/proto/7gpuIwBSHH2NBlRuLM9blK/Protótipo-Mobile?node-id=1-5&t=DE77p1YVkD4nhIw7-1&starting-point-node-id=1%3A5)
+- Desktop: [Link](https://www.figma.com/design/7gpuIwBSHH2NBlRuLM9blK/Prot%C3%B3tipo-Mobile?node-id=0-1&t=UBlje9CzUSJT9k8m-1)
+- Mobile: [Link](https://www.figma.com/design/YcwMepwiNQC3N8HrhoIdb9/Prot%C3%B3tipo-Desktop?node-id=0-1&t=pLrhmMBV2Ge4SJ4k-1)
 
 ## – Tipografia:
 
