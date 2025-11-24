@@ -2,7 +2,7 @@
 
 # Projeto **"Controla$EU"**
 
-![Marca](/profile/images/marcacontrolaseu.png)
+![Marca]()
 
 **Autores:**
 
@@ -225,7 +225,7 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 
 ## – Modelo Canvas do Projeto:
 
-![ModeloCanvas](/profile/images/modecanvasatualizado.png)
+![ModeloCanvas]()
 
 ### – Proposta de Valor:
 
@@ -278,30 +278,33 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 
 ### – Desktop
 
-![Pagina Inicial-sobre](/profile/images/wireframedesktopsobre.png)
+![Pagina Inicial-sobre]()
 Página inicial - Sobre.
 
-![Pagina Inicial-planos](/profile/images/wireframedesktopplanos.png)
+![Pagina Inicial-planos]()
 Página inicial - Assinaturas.
 
-![Pagina Inicial-quemsomos](/profile/images/wireframedesktopquemsomos.png)
+![Pagina Inicial-quemsomos]()
 Página inicial - Quem somos?
 
-![Pagina Inicial-contatoefooter](/profile/images/wireframedesktopcontatoefinal.png)
+![Pagina Inicial-contatoefooter]()
 Página inicial - Contato e Footer.  
 
-![Pagina Login](/profile/images/wireframelogin.png)
+![Pagina Login]()
 Página de Login. 
 
-![Pagina Cadastro](/profile/images/wireframecadastro.png)
+![Pagina Cadastro]()
 Página de Cadastro. 
 
-![Dashboard](/profile/images/wireframedashboard.png)
+![Dashboard]()
 Dashboard do Usuário. 
 
 ## – Protótipo do Projeto:
 
-Protótipo disponível no [Figma](https://www.figma.com/proto/7gpuIwBSHH2NBlRuLM9blK/Wireframes-Mobile---P%C3%A1gina-Inicial?node-id=0-1&t=DE77p1YVkD4nhIw7-1).
+Protótipos disponíveis no [_Figma_](https://www.figma.com).
+
+- Desktop: [Link]()
+- Mobile: [Link]()
 
 ## – Tipografia:
 
