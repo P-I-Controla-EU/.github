@@ -2,7 +2,7 @@
 
 # Projeto **"Controla$EU"**
 
-![Marca]()
+![Marca](/profile/images/marcacontrolaseu.png)
 
 **Autores:**
 
@@ -225,7 +225,7 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 
 ## – Modelo Canvas do Projeto:
 
-![ModeloCanvas]()
+![ModeloCanvas](/profile/images/modecanvasatualizado.png)
 
 ### – Proposta de Valor:
 
@@ -278,33 +278,33 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 
 ### – Desktop
 
-![Pagina Inicial-sobre]()
+![Pagina Inicial-sobre](/profile/images/wireframedesktopsobre.png)
 Página inicial - Sobre.
 
-![Pagina Inicial-planos]()
+![Pagina Inicial-planos](/profile/images/wireframedesktopplanos.png)
 Página inicial - Assinaturas.
 
-![Pagina Inicial-quemsomos]()
+![Pagina Inicial-quemsomos](/profile/images/wireframedesktopquemsomos.png)
 Página inicial - Quem somos?
 
-![Pagina Inicial-contatoefooter]()
+![Pagina Inicial-contatoefooter](/profile/images/wireframedesktopcontatoefinal.png)
 Página inicial - Contato e Footer.  
 
-![Pagina Login]()
+![Pagina Login](/profile/images/wireframelogin.png)
 Página de Login. 
 
-![Pagina Cadastro]()
+![Pagina Cadastro](/profile/images/wireframecadastro.png)
 Página de Cadastro. 
 
-![Dashboard]()
+![Dashboard](/profile/images/wireframedashboard.png)
 Dashboard do Usuário. 
 
 ## – Protótipo do Projeto:
 
 Protótipos disponíveis no [_Figma_](https://www.figma.com).
 
-- Desktop: [Link]()
-- Mobile: [Link]()
+- Desktop: [Link](https://www.figma.com/proto/YcwMepwiNQC3N8HrhoIdb9/Prot%C3%B3tipo-Desktop?page-id=0%3A1&node-id=1-20&p=f&viewport=-682%2C226%2C0.24&t=zMXBcIY22DfxSbhH-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A20)
+- Mobile: [Link](https://www.figma.com/proto/7gpuIwBSHH2NBlRuLM9blK/Protótipo-Mobile?node-id=1-5&t=DE77p1YVkD4nhIw7-1&starting-point-node-id=1%3A5)
 
 ## – Tipografia:
 
