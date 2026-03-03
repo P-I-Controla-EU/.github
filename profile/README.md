@@ -15,43 +15,26 @@
 # Sumário:
 
 - ### [Objetivo](#objetivo)
-
 - ### [Metodologias](#metodologias)
-
 - ### [Requisitos](#requisitos-do-projeto)
   - [Requisitos Funcionais:](#-requisitos-funcionais-rf)
-
   - [Requisitos Não-Funcionais:](#-requisitos-não-funcionais-rnf)
-
 - ### [Estudo de Viabilidade](#estudo-de-viabilidade-do-projeto)
   - [Viabilidade Técnica:](#-1-viabilidade-técnica)
-
   - [Viabilidade Financeira:](#-2-viabilidade-financeira)
-
   - [Viabilidade de Mercado:](#-3-viabilidade-de-mercado)
-
   - [Viabilidade Operacional:](#-4-viabilidade-operacional)
-
 - ### [Regras de Negócio](#regras-de-negócio)
   - [Modelo Canvas:](#-modelo-canvas-do-projeto)
-
   - [Proposta de Valor:](#-proposta-de-valor)
-
   - [Para quem?](#-para-quem)
-
   - [Como?](#-como)
-
   - [Custos:](#-custos)
-
 - ### [Design](#design-do-projeto)
   - [Paleta de Cores](#-paleta-de-cores)
-
   - [Wireframes](#-wireframes)
-
   - [Protótipo](#-protótipo-do-projeto)
-
   - [Tipografia](#-tipografia)
-
 - ### [Referências e Fontes](#referências-e-fontes-utilizadas)
 
 <hr>
@@ -81,23 +64,21 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 ## – Requisitos Funcionais (RF).
 
 - **RF01 – Realizar cadastros:**
-  O sistema deve permitir que os usuários criem contas e realizem cadastros de pessoa física ou jurídica.
+  O sistema deve permitir que os usuários criem contas e realizem cadastros de pessoa física ou jurídica (Nome, email, CPF, telefone, data de nascimento).
 - **RF02 – Realizar logins:**
-  O sistema deve permitir guardar informações dos usuários e utilizá-las para realizar o login dos mesmos.
+  O sistema deve permitir guardar informações dos usuários e utilizá-las para realizar o login dos mesmos (Nome de usuário e senha).
 - **RF03 – Controlar receitas:**
-  O sistema deve permitir o usuário registrar suas receitas e transações a fim de acompanhá-las e as monitorar.
-- **RF03 – Controlar despesas:**
-  O sistema deve permitir com que o usuário documente e organize suas despesas de acordo com sua preferência, buscando mais organização.
-- **RF04 – Registrar datas:**
-  O sistema deve registrar data, valor, categoria, descrição e forma de pagamento de cada transação.
-- **RF05 – Cadastrar categorias de transação:**
-  O sistema deve permitir com que o usuário possa categorizar suas transações de acordo com sua preferência com categorias personalizáveis, subcategorias e tags.
-- **RF06 – Organizar orçamentos:**
-  O sistema deve permitir com que o usuário crie e organize seus orçamentos mensais e anuais, notificando-o quando próximo de seu limite.
-- **RF07 – Criar metas:**
+  O sistema deve permitir o usuário cadastrar e registrar suas receitas e transações a fim de acompanhá-las e as monitorar (Categoria, valor e data das receitas).
+- **RF04 – Controlar despesas:**
+  O sistema deve permitir com que o usuário documente e organize suas despesas de acordo com sua preferência, buscando mais organização (Categoria, valor e data das despesas).
+- **RF05 – Organizar orçamentos:**
+  O sistema deve permitir com que o usuário crie e organize seus orçamentos mensais e anuais, notificando-o quando próximo de seu limite (Nome do orçamento, data).
+- **RF06 – Criar metas:**
   O sistema deve permitir que o usuário defina suas próprias metas de economia ou de investimentos, a fim de acompanhá-las e planejar suas despesas de forma inteligente.
-- **RF08 – Notificar o usuário:**
-  O sistema deve notificar o usuário sobre coisas como contas a pagar, orçamentos estourados e transações.
+- **RF07 – Notificar o usuário:**
+  O sistema deve notificar o usuário sobre coisas como contas a pagar, orçamentos estourados, transações e quando próximo de seu limite.
+- **RF08 - Exibir histórico com filtragem::**
+  O sistema deve permitir que o usuário visualize o histórico de suas despesas, receitas, orçamentos e metas.
 
 ## – Requisitos Não Funcionais (RNF).
 
