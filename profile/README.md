@@ -2,7 +2,7 @@
 
 # Projeto **"Controla$EU"**
 
-![Logo LightMode](/profile/images/marcacontrolaseu.png#gh-light-mode-only) ![Logo DarkMode](images/marcacontrolaseuwhite.png)
+![Logo LightMode](/profile/images/marcacontrolaseu.png#gh-light-mode-only) ![Logo DarkMode](images/marcacontrolaseuwhite.png#gh-dark-mode-only)
 
 **Autores:**
 
