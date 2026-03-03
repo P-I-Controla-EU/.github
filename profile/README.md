@@ -2,7 +2,7 @@
 
 # Projeto **"Controla$EU"**
 
-![Marca](/profile/images/marcacontrolaseu.png)
+![Logo LightMode](/profile/images/marcacontrolaseu.png#gh-light-mode-only) ![Logo DarkMode](images/marcacontrolaseuwhite.png)
 
 **Autores:**
 
@@ -14,28 +14,23 @@
 
 # Sumário:
 
-- ### [Objetivo](#objetivo)
-- ### [Metodologias](#metodologias)
-- ### [Requisitos](#requisitos-do-projeto)
+- [Objetivo](#objetivo)
+- [Metodologias](#metodologias)
+- [Requisitos](#requisitos-do-projeto)
   - [Requisitos Funcionais:](#-requisitos-funcionais-rf)
   - [Requisitos Não-Funcionais:](#-requisitos-não-funcionais-rnf)
-- ### [Estudo de Viabilidade](#estudo-de-viabilidade-do-projeto)
-  - [Viabilidade Técnica:](#-1-viabilidade-técnica)
-  - [Viabilidade Financeira:](#-2-viabilidade-financeira)
-  - [Viabilidade de Mercado:](#-3-viabilidade-de-mercado)
-  - [Viabilidade Operacional:](#-4-viabilidade-operacional)
-- ### [Regras de Negócio](#regras-de-negócio)
-  - [Modelo Canvas:](#-modelo-canvas-do-projeto)
-  - [Proposta de Valor:](#-proposta-de-valor)
-  - [Para quem?](#-para-quem)
-  - [Como?](#-como)
-  - [Custos:](#-custos)
-- ### [Design](#design-do-projeto)
+- [Estudo de Viabilidade](#estudo-de-viabilidade-do-projeto)
+  - [Viabilidade Técnica:](#1-viabilidade-técnica)
+  - [Viabilidade Financeira:](#2-viabilidade-financeira)
+  - [Viabilidade Operacional:](#3-viabilidade-operacional)
+  - [Viabilidade de Mercado:](#4-viabilidade-de-mercado)
+- [Regras de Negócio](#regras-de-negócio)
+- [Design](#design-do-projeto)
   - [Paleta de Cores](#-paleta-de-cores)
   - [Wireframes](#-wireframes)
-  - [Protótipo](#-protótipo-do-projeto)
   - [Tipografia](#-tipografia)
-- ### [Referências e Fontes](#referências-e-fontes-utilizadas)
+  - [Protótipo](#-protótipo-do-projeto)
+- [Referências e Fontes](#referências-e-fontes-utilizadas)
 
 <hr>
 
@@ -47,7 +42,27 @@ O projeto _”Controla$EU”_ é focado em auxiliar pessoas jurídicas/físicas 
 
 # **Metodologias**
 
-Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e JavaScript, modelos de processo ágeis Kanban e Scrum. Para o design do projeto serão usadas as ferramentas Figma e Photoshop.
+Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3, JavaScript, frameworks como Bootstrap, prototipagem de alta fidelidade no Figma e — para integração com banco de dados — será usada a linguagem PHP. Os bancos de dados usados serão MariaDB e MySQL. Também será usada a tecnologia Git e GitHub a fim de versionamento do projeto.
+
+<img height="30px" alt="iconhtml" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+
+<img height="30px" alt="iconcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+
+<img height="30px" alt="iconjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+
+<img height="30px" alt="iconbootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+
+<img height="30px" alt="iconfigma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+
+<img height="30px" alt="iconiconphp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+
+<img height="30px" alt="iconmariadb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"/>
+
+<img height="30px" alt="iconmysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+
+<img height="30px" alt="icongit" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+
+<img height="30px" alt="icongithub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 
 </div>
 
@@ -72,7 +87,7 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 - **RF04 – Controlar despesas:**
   O sistema deve permitir com que o usuário documente e organize suas despesas de acordo com sua preferência, buscando mais organização (Categoria, valor e data das despesas).
 - **RF05 – Organizar orçamentos:**
-  O sistema deve permitir com que o usuário crie e organize seus orçamentos mensais e anuais, notificando-o quando próximo de seu limite (Nome do orçamento, data).
+  O sistema deve permitir com que o usuário crie e organize seus orçamentos mensais e anuais, notificando-o quando próximo de seu limite (Nome do orçamento, data), exibindo despesas e receitas por tipo e calculando saldos.
 - **RF06 – Criar metas:**
   O sistema deve permitir que o usuário defina suas próprias metas de economia ou de investimentos, a fim de acompanhá-las e planejar suas despesas de forma inteligente.
 - **RF07 – Notificar o usuário:**
@@ -101,98 +116,25 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 
 </div>
 
-
 <hr>
 
 # Estudo de Viabilidade do Projeto.
 
-## **– 1. Viabilidade Técnica.**
+## 1. Viabilidade Técnica.
 
-- **1.1. Requisitos técnicos:**
+Projeto viável, com tecnologias gratuitas open source que suprem todas as necessidades.
 
-  - Linguagens: HTML 5, CSS 3, JavaScript (React), PHP ou Flutter multiplataforma (Web/Mobile);
+## 2. Viabilidade Financeira.
 
-  - Banco de Dados: MariaDB ou MongoDB;
+Projeto viável, com médio ou pouco investimento.
 
-  - Infraestrutura: AWS, Azure ou Google Cloud;
+## 3. Viabilidade Operacional.
 
-  - Integrações: API's bancárias (Open Finance), serviços de autenticação (OAuth 2.0) e gateways de pagamento (Mercado Pago, PagSeguro...).
+Projeto viável, que visa melhorar a vida financeira do usuário com curva de aprendizado mínimo.
 
-- **1.2. Riscos técnicos:**
+## 4. Viabilidade de Mercado.
 
-  - Integrações com API's bancárias podem exigir certificações (ex: Open Banking);
-
-  - Alta segurança e criptografia de dados;
-
-  - Escalabilidade da plataforma com o aumento de usuários.
-
-## **– 2. Viabilidade Financeira.**
-
-- **2.1. Custos estimados:**
-
-  - Desenvolvimento;
-
-  - Infraestrutura;
-
-  - Servidores;
-
-  - Marketing;
-
-  - Divulgações;
-
-  - Manutenções;
-
-  - Suporte.
-
-- **2.2. Fontes de Receita:**
-
-  - Assinaturas mensais;
-
-  - Planos premium;
-
-  - Parcerias com instituições financeiras;
-
-  - Anúncios na página.
-
-- **2.3. Ponto de Equilíbrio:**
-
-  - Com uma mensalidade de, por exemplo R$19.90, serão necessários, aproximadamente, 1.350 usuários ativos e pagantes para atingir o breakeven em 12 meses.
-
-## **– 3. Viabilidade de Mercado.**
-
-- **3.1. Público-alvo:**
-
-  - Pessoas físicas que buscam controle financeiro pessoal;
-
-  - Pequenos empreendedores / autônomos;
-
-  - Jovens adultos e universitários.
-
-- **3.2. Concorrência:**
-
-  - [_Organizze_](https://www.organizze.com.br/), [_Mobills_](https://www.mobills.com.br/), [_Kamino_](https://kamino.com.br);
-
-  - Diferenças potenciais: Foco em usabilidade, integração com PIX e bancos via _Open Finance_, inteligência artificial para a previsão de gastos;
-
-  - Tendências de mercado: Crescente preocupação com educação financeira, adoção de _Open Finance_ no Brasil e aumento do uso de apps de finanças pessoais.
-
-## **– 4. Viabilidade Operacional.**
-
-- **4.1. Processos Operacionais:**
-
-  - Suporte técnico;
-
-  - Atendimento ao cliente;
-
-  - Monitoramento do sistema 24/7;
-
-  - Atualizações e melhorias contínuas.
-
-- **4.2. Compliance e regulamentações:**
-
-  - LGPD: proteção de dados dos usuários;
-
-  - Regulamentações financeiras caso haja transações integradas.
+Projeto não tão viável, visa público-alvo pouco explorado porém há empresas já consolidadas no mercado ([_Organizze_](https://www.organizze.com.br/), [_Mobills_](https://www.mobills.com.br/), [_Kamino_](https://kamino.com.br)...).
 
 <div align= "end">
 
@@ -204,35 +146,7 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 
 # **Regras de Negócio.**
 
-## – Modelo Canvas do Projeto:
-
 ![ModeloCanvas](/profile/images/modecanvasatualizado.png)
-
-### – Proposta de Valor:
-
-- O gerenciador financeiro criado visa capacitar jovens universitários ou jovens adultos a administrarem suas finanças de modo intuitivo e organizado, à fim de desenvolver também a educação financeira dos usuários.
-
-### – Para quem?
-
-- O software criado têm como público-alvo jovens universitários, jovens adultos e talvez pequenas empresas;
-
-- O relacionamento com os usuários do produto será direto, através de um chat, tanto na aplicação quanto na página da Web;
-
-- Os canais pelo que o software atuará serão serviços de hospedagem dedicados.
-
-### – Como? 
-
-- Os principais parceiros do projeto são a [Fatec Jaú](https://fatecjahu.edu.br) e, no futuro, empresas de contabilidade;
-
-- As principais atividades do projeto são o monitoramento e gestão de finanças de acordo com o gosto do usuário;
-
-- Os recursos principais para o sucesso do projeto são computadores, servidores dedicados, sites na Web e anúncios on-line.
-
-### – Custos:
-
-- Os maiores gastos serão com cibersegurança, manutenção da página, constantes atualizações e à equipe de suporte dedicada;
-
-- As fontes de receita da aplicação serão anúncios na página da Web e planos por assinatura.
 
 <div align= "end">
 
@@ -246,39 +160,16 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3 e J
 
 ## – Paleta de cores:
 
-|   | Nome  | Código HEX  | Preview|  
-|--:|-------|-------------|--------| 
-| **Cor 1** | Azul escuro | #5e78ff | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%235e78ff)|   
-| **Cor 2** | Azul claro  | #1bb2f4 |![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%231bb2f4)|   
-| **Cor 3** | Azul de confirmação | #0b5ed7 |![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%230b5ed7)|
-| **Cor 4** | Verde claro | #0bc72d |![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%230bc72d)| 
-| **Cor 5** | Cinza claro  | #d4d4d4 |![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%23d4d4d4)|   
-| **Cor 6** | Cinza escuro | #212121 |![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%23212121)|
+|           | Nome                | Código HEX | Preview                                                                                                                                                                          |
+| --------: | ------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cor 1** | Azul escuro         | #5e78ff    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%235e78ff) |
+| **Cor 2** | Azul claro          | #1bb2f4    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%231bb2f4) |
+| **Cor 3** | Azul de confirmação | #0b5ed7    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%230b5ed7) |
+| **Cor 4** | Verde claro         | #0bc72d    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%230bc72d) |
+| **Cor 5** | Cinza claro         | #d4d4d4    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%23d4d4d4) |
+| **Cor 6** | Cinza escuro        | #212121    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%23212121) |
 
-## – Wireframes:
-
-### – Desktop
-
-![Pagina Inicial-sobre](/profile/images/wireframedesktopsobre.png)
-Página inicial - Sobre.
-
-![Pagina Inicial-planos](/profile/images/wireframedesktopplanos.png)
-Página inicial - Assinaturas.
-
-![Pagina Inicial-quemsomos](/profile/images/wireframedesktopquemsomos.png)
-Página inicial - Quem somos?
-
-![Pagina Inicial-contatoefooter](/profile/images/wireframedesktopcontatoefinal.png)
-Página inicial - Contato e Footer.  
-
-![Pagina Login](/profile/images/wireframelogin.png)
-Página de Login. 
-
-![Pagina Cadastro](/profile/images/wireframecadastro.png)
-Página de Cadastro. 
-
-![Dashboard](/profile/images/wireframedashboard.png)
-Dashboard do Usuário. 
+## – Tipografia:
 
 ## – Protótipo do Projeto:
 
@@ -286,24 +177,6 @@ Protótipos disponíveis no [_Figma_](https://www.figma.com).
 
 - Desktop: [Link](https://www.figma.com/design/7gpuIwBSHH2NBlRuLM9blK/Prot%C3%B3tipo-Mobile?node-id=0-1&t=UBlje9CzUSJT9k8m-1)
 - Mobile: [Link](https://www.figma.com/design/YcwMepwiNQC3N8HrhoIdb9/Prot%C3%B3tipo-Desktop?node-id=0-1&t=pLrhmMBV2Ge4SJ4k-1)
-
-## – Tipografia:
-
-Fontes principais: Usadas em parágrafos e descrições.
-
-> _Roboto, Nunita, Lato._
-
-<br>
-
-Fontes de Destaque: Fontes para títulos ou cabeçalhos.
-
-> _Merriwheater, Playfair display._
-
-<br>
-
-Fontes opcionais: Usadas em botões, citações ou no nome da própria marca.
-
-> _Pacifico ou Lobster._
 
 <div align= "end">
 
@@ -332,4 +205,3 @@ Fontes opcionais: Usadas em botões, citações ou no nome da própria marca.
 - FIGMA. Disponível em <https://www.figma.com>.
 
 - SEBRAE. Disponível em <https://canvas-apps.pr.sebrae.com.br>.
-
