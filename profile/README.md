@@ -92,7 +92,7 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3, Ja
   O sistema deve permitir que o usuário defina suas próprias metas de economia ou de investimentos, a fim de acompanhá-las e planejar suas despesas de forma inteligente.
 - **RF07 – Notificar o usuário:**
   O sistema deve notificar o usuário sobre coisas como contas a pagar, orçamentos estourados, transações e quando próximo de seu limite.
-- **RF08 - Exibir histórico com filtragem::**
+- **RF08 - Exibir histórico com filtragem:**
   O sistema deve permitir que o usuário visualize o histórico de suas despesas, receitas, orçamentos e metas.
 
 ## – Requisitos Não Funcionais (RNF).
@@ -146,7 +146,7 @@ Projeto não tão viável, visa público-alvo pouco explorado porém há empresa
 
 # **Regras de Negócio.**
 
-![ModeloCanvas](/profile/images/modecanvasatualizado.png)
+![ModeloCanvas](/profile/images/ModeloNegocios.png)
 
 <div align= "end">
 
