@@ -78,25 +78,39 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3, Ja
 
 ## – Requisitos Funcionais (RF).
 
-- **RF01 – Realizar cadastros:** O sistema deve permitir que os usuários criem contas e realizem cadastros, tanto de **pessoa física** ou **jurídica** (Armazenando dados como: `nome`, `email`, `CPF`, `telefone`, `data de nascimento`).
+- **RF01 – Realizar cadastros:** O sistema deve permitir que os usuários criem contas e realizem cadastros, tanto de **pessoa física** ou **jurídica** (Armazenando dados como: `nome`, `email`, `cpf`, `cnpj`, `telefone`, `data_nascimento`, `data_fundacao`).
 
-- **RF02 – Realizar logins:** O sistema deve permitir guardar informações dos usuários e utilizá-las para realizar o login dos mesmos (Usando os dados armazenados: `CPF`, `senha`, `email`).
+- **RF02 – Realizar logins:** O sistema deve permitir guardar informações dos usuários e utilizá-las para realizar o login dos mesmos (Usando os dados armazenados: `cpf`, `cnpj`, `senha`, `email`).
 
 - **RF03 – Visualizar planos:** A página inicial deve exibir ao usuário a **lista de planos** por assinatura que irão ser disponibilizados para compra a fim de melhorar a experiência do usuário e conceder a ele benefícios variados (Dados armazenados em tabela `planos`). 
 
-- **RF04 – Integração a Gateways de Pagamento:** O sistema deve permitir que os usuários realizem pagamentos (De diferentes formas como cartão, Pix e registrando pagamentos em tabela `pagamentos`), evitando duplicações com sistemas de idempotência e confirmações automáticas. 
+- **RF04 – Integração a Gateways de Pagamento:** O sistema deve permitir que os usuários realizem o pagamento dos planos (De diferentes formas como cartão, Pix e registrando `data_pagamento`, `data_cancelamento` e `tipo_pagamento` em tabela `pagamentos`), evitando duplicações com sistemas de idempotência e confirmações automáticas.
 
-- **RF05 – Controlar receitas:** O sistema deve permitir o usuário **cadastrar e registrar suas receitas e transações** a fim de acompanhá-las e as monitorar (Armazenando: `categoria`, `valor` e `data` em tabela `receitas`).
+- **RF05 – Registrar categorias:** O sistema deve permitir com que o usuário cadastre as próprias categorias de despesas ou receitas (Armazenando: `nome_categoria`, `descricao`, `despesa` ou `receita`).
 
-- **RF06 – Controlar despesas:** O sistema deve permitir com que o usuário **documente e organize suas despesas de acordo com sua preferência**, buscando mais organização (Armazenando: `categoria`, `valor` e `data` em tabela `despesas`).
+- **RF06 – Registrar receitas:** O sistema deve permitir o usuário **cadastrar e registrar suas receitas e transações** a fim de acompanhá-las e as monitorar (Armazenando: `nome_categoria`, `valor_receita`, `data_receita` em tabela `receitas`).
 
-- **RF07 – Organizar orçamentos:** O sistema deve permitir com que o usuário **crie e organize seus orçamentos mensais ou anuais**, notificando-o quando próximo de seu limite (Armazenando: `nome`, `data`, `valor` em tabela `orcamentos`).
+- **RF07 – Registrar despesas:** O sistema deve permitir com que o usuário **documente e organize suas despesas de acordo com sua preferência**, buscando mais organização (Armazenando: `nome_categoria`, `valor_despesa` e `data_despesa` em tabela `despesas`).
 
-- **RF08 – Criar metas:** O sistema deve permitir que o usuário **defina suas próprias metas de economia ou de investimentos**, a fim de acompanhá-las e planejar suas despesas de forma inteligente (Armazenando: `nome`, `valor atual`, `meta` em tabela `metas`).
+- **RF08 – Organizar orçamentos:** O sistema deve permitir com que o usuário **crie e organize seu orçamento mensal** (Armazenando: `nome_orcamento`, `data_inicio`, `data_final`, `valor_inicial` em tabela `orcamentos`).
 
-- **RF09 – Notificar o usuário:** O sistema deve notificar o usuário sobre coisas como **contas a pagar, orçamentos estourados, transações e quando próximo de seu limite**.
+- **RF09 – Criar metas:** O sistema deve permitir que o usuário **defina suas próprias metas de economia ou de investimentos**, a fim de acompanhá-las e planejar suas despesas de forma inteligente (Armazenando: `nome_meta`, `valor_atual`, `valor_meta` e `data_meta` em tabela `metas`).
 
-- **RF10 - Exibir histórico com filtragem:** O sistema deve permitir que o usuário **visualize o histórico** de suas *despesas, receitas, orçamentos e metas*.
+- **RF10 – Consultar saldo:** O sistema deve permitir que o usuário **visualize o saldo (despesas - receitas) por período**. O sistema deve verificar se o saldo é positivo (dentro do orçamento) ou negativo (estourou o orçamento).
+
+- **RF11 – Consultar contas a pagar:** O sistema deve permitir consultar as contas a pagar por período (`data_inicial`, `data_final`) na tabela `despesas`. O sistema deve exibir as despesas que estiverem nesse intervalo de `data_inicial` e `data_final`.
+ 
+- **RF12 – Consultar contas a receber:** O sistema deve permitir consultar as contas a receber por período (`data_inicial`, `data_final`) na tabela `receitas`. O sistema deve exibir as receitas que estiverem nesse intervalo de `data_inicial` e `data_final`.
+
+- **RF13 – Calcular metas atingidas:** O sistema deve atualizar o `valor_atual` em tabela `metas` com o valor do saldo (saldo positivo = soma em `valor_atual`, saldo negativo = subtrai de `valor_atual`).
+
+- **RF14 – Emitir notificação de meta atingida:** Quando o `valor_atual` for maior ou igual ao `valor_meta` estabelecida, emite uma notificação ao usuário de meta atingida.
+
+- **RF15 – Emitir notificação de contas a pagar:** O sistema deve notificar o usuário sobre as contas a pagar com um dia de antecedência, exibindo a despesa, o valor e sua data de vencimento.
+
+- **RF16 – Emitir notificação de orçamento estourado:** O sistema deve notificar o usuário sobre **orçamento estourado quando o total de despesas ultrapassou o valor do orçamento cadastrado**.
+
+- **RF17 - Exibir histórico com filtragem:** O sistema deve permitir que o usuário **visualize o histórico** de suas *despesas, receitas, orçamentos e metas*. 
 
 ## – Requisitos Não Funcionais (RNF).
 
