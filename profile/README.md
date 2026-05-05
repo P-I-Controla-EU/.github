@@ -216,3 +216,9 @@ Protótipos disponíveis no [_Figma_](https://www.figma.com).
 - FIGMA. Disponível em <https://www.figma.com>.
 
 - SEBRAE. Disponível em <https://canvas-apps.pr.sebrae.com.br>.
+
+<div align= "end">
+
+[Voltar ao sumário.](#sumário)
+
+</div>
