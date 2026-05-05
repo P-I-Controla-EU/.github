@@ -100,26 +100,19 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3, Ja
 
 ## – Requisitos Não Funcionais (RNF).
 
-- **RNF01 – Incluir autenticação de dois fatores (2FA):**
-  O sistema deve exigir a autenticação de dois fatores ao login do usuário e em quaisquer transações financeiras.
+- **RNF01 – Incluir autenticação de dois fatores (2FA):** O sistema deve exigir a autenticação de dois fatores ao login do usuário e em quaisquer transações financeiras.
 
-- **RNF02 – Criptografar dados:**
-  O sistema deve proteger, sem nenhuma exceção, todas as informações pessoais de seus usuários como senhas e dados bancários, tanto durante o uso do sistema quanto em repouso.
+- **RNF02 – Criptografar dados:** O sistema deve proteger, sem nenhuma exceção, todas as informações pessoais de seus usuários como senhas e dados bancários, tanto durante o uso do sistema quanto em repouso.
 
-- **RNF03 – Apresentar dados precisos:**
-  O sistema deve mitigar a taxa de erro durante a exibição de saldos e investimentos.
+- **RNF03 – Apresentar dados precisos:** O sistema deve mitigar a taxa de erro durante a exibição de saldos e investimentos.
 
-  - **RNF04 – Suportar múltiplos usuários:**
-  O sistema deve suportar vários usuários simultâneos na plataforma, sem queda de performance ou outros erros críticos.
+- **RNF04 – Suportar múltiplos usuários:** O sistema deve suportar vários usuários simultâneos na plataforma, sem queda de performance ou outros erros críticos.
 
-- **RNF05 – Apresentar boa compatibilidade:**
-  O sistema deve ser funcional em diferentes navegadores, como Firefox, Chrome, Edge, dentre outros.
+- **RNF05 – Apresentar boa compatibilidade:** O sistema deve ser funcional em diferentes navegadores, como Firefox, Chrome, Edge, dentre outros.
 
-- **RNF06 – Intuitivo e de fácil navegação:**
-  O sistema deve apresentar navegação interna intuitiva e consistente, a fim de confortar e satisfazer o usuário, mantendo uma curva de aprendizado não tão alta.
+- **RNF06 – Intuitivo e de fácil navegação:** O sistema deve apresentar navegação interna intuitiva e consistente, a fim de confortar e satisfazer o usuário, mantendo uma curva de aprendizado não tão alta.
 
-- **RNF07 – Boa performance:**
-  O sistema e suas diferentes páginas devem carregar e salvar informações de maneira rápida.
+- **RNF07 – Boa performance:** O sistema e suas diferentes páginas devem carregar e salvar informações de maneira rápida.
 
 <div align= "end">
 
