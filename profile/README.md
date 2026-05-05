@@ -78,35 +78,25 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3, Ja
 
 ## – Requisitos Funcionais (RF).
 
-- **RF01 – Realizar cadastros:**
-  O sistema deve permitir que os usuários criem contas e realizem cadastros, tanto de **pessoa física** ou **jurídica** (Armazenando dados como: `nome`, `email`, `CPF`, `telefone`, `data de nascimento`).
+- **RF01 – Realizar cadastros:** O sistema deve permitir que os usuários criem contas e realizem cadastros, tanto de **pessoa física** ou **jurídica** (Armazenando dados como: `nome`, `email`, `CPF`, `telefone`, `data de nascimento`).
 
-- **RF02 – Realizar logins:**
-  O sistema deve permitir guardar informações dos usuários e utilizá-las para realizar o login dos mesmos (Usando os dados armazenados: `CPF`, `senha`, `email`).
+- **RF02 – Realizar logins:** O sistema deve permitir guardar informações dos usuários e utilizá-las para realizar o login dos mesmos (Usando os dados armazenados: `CPF`, `senha`, `email`).
 
-  - **RF03 – Visualizar planos:**
-  A página inicial deve exibir ao usuário a **lista de planos** por assinatura que irão ser disponibilizados para compra a fim de melhorar a experiência do usuário e conceder a ele benefícios variados (Dados armazenados em tabela `planos`). 
+- **RF03 – Visualizar planos:** A página inicial deve exibir ao usuário a **lista de planos** por assinatura que irão ser disponibilizados para compra a fim de melhorar a experiência do usuário e conceder a ele benefícios variados (Dados armazenados em tabela `planos`). 
 
-  - **RF04 – Integração a Gateways de Pagamento:**
-  O sistema deve permitir que os usuários realizem pagamentos (De diferentes formas como cartão, Pix e registrando pagamentos em tabela `pagamentos`), evitando duplicações com sistemas de idempotência e confirmações automáticas. 
+- **RF04 – Integração a Gateways de Pagamento:** O sistema deve permitir que os usuários realizem pagamentos (De diferentes formas como cartão, Pix e registrando pagamentos em tabela `pagamentos`), evitando duplicações com sistemas de idempotência e confirmações automáticas. 
 
-- **RF05 – Controlar receitas:**
-  O sistema deve permitir o usuário **cadastrar e registrar suas receitas e transações** a fim de acompanhá-las e as monitorar (Armazenando: `categoria`, `valor` e `data` em tabela `receitas`).
+- **RF05 – Controlar receitas:** O sistema deve permitir o usuário **cadastrar e registrar suas receitas e transações** a fim de acompanhá-las e as monitorar (Armazenando: `categoria`, `valor` e `data` em tabela `receitas`).
 
-- **RF06 – Controlar despesas:**
-  O sistema deve permitir com que o usuário **documente e organize suas despesas de acordo com sua preferência**, buscando mais organização (Armazenando: `categoria`, `valor` e `data` em tabela `despesas`).
+- **RF06 – Controlar despesas:** O sistema deve permitir com que o usuário **documente e organize suas despesas de acordo com sua preferência**, buscando mais organização (Armazenando: `categoria`, `valor` e `data` em tabela `despesas`).
 
-- **RF07 – Organizar orçamentos:**
-  O sistema deve permitir com que o usuário **crie e organize seus orçamentos mensais ou anuais**, notificando-o quando próximo de seu limite (Armazenando: `nome`, `data`, `valor` em tabela `orcamentos`).
+- **RF07 – Organizar orçamentos:** O sistema deve permitir com que o usuário **crie e organize seus orçamentos mensais ou anuais**, notificando-o quando próximo de seu limite (Armazenando: `nome`, `data`, `valor` em tabela `orcamentos`).
 
-- **RF08 – Criar metas:**
-  O sistema deve permitir que o usuário **defina suas próprias metas de economia ou de investimentos**, a fim de acompanhá-las e planejar suas despesas de forma inteligente (Armazenando: `nome`, `valor atual`, `meta` em tabela `metas`).
+- **RF08 – Criar metas:** O sistema deve permitir que o usuário **defina suas próprias metas de economia ou de investimentos**, a fim de acompanhá-las e planejar suas despesas de forma inteligente (Armazenando: `nome`, `valor atual`, `meta` em tabela `metas`).
 
-- **RF09 – Notificar o usuário:**
-  O sistema deve notificar o usuário sobre coisas como **contas a pagar, orçamentos estourados, transações e quando próximo de seu limite**.
+- **RF09 – Notificar o usuário:** O sistema deve notificar o usuário sobre coisas como **contas a pagar, orçamentos estourados, transações e quando próximo de seu limite**.
 
-- **RF10 - Exibir histórico com filtragem:**
-  O sistema deve permitir que o usuário **visualize o histórico** de suas *despesas, receitas, orçamentos e metas*.
+- **RF10 - Exibir histórico com filtragem:** O sistema deve permitir que o usuário **visualize o histórico** de suas *despesas, receitas, orçamentos e metas*.
 
 ## – Requisitos Não Funcionais (RNF).
 
