@@ -150,6 +150,8 @@ Projeto não tão viável, visa público-alvo pouco explorado porém há empresa
 
 # **Regras de Negócio.**
 
+## – Modelo de negócio Canvas
+
 ![ModeloCanvas](/profile/images/ModeloNegocios.png)
 
 <div align= "end">
