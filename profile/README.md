@@ -2,7 +2,7 @@
 
 # Projeto **"Controla$EU"**
 
-![Logo LightMode](/profile/images/marcacontrolaseu.png#gh-light-mode-only) ![Logo DarkMode](images/marcacontrolaseuwhite.png#gh-dark-mode-only)
+![Logo LightMode](/profile/images/logo-git-white.png#gh-light-mode-only) ![Logo DarkMode](images/logo-git-dark.png#gh-dark-mode-only)
 
 **Autores:**
 
@@ -171,9 +171,8 @@ Projeto não tão viável, visa público-alvo pouco explorado porém há empresa
 | **Cor 1** | Azul escuro         | #5e78ff    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%235e78ff) |
 | **Cor 2** | Azul claro          | #1bb2f4    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%231bb2f4) |
 | **Cor 3** | Azul de confirmação | #0b5ed7    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%230b5ed7) |
-| **Cor 4** | Verde claro         | #0bc72d    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%230bc72d) |
-| **Cor 5** | Cinza claro         | #d4d4d4    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%23d4d4d4) |
-| **Cor 6** | Cinza escuro        | #212121    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%23212121) |
+| **Cor 4** | Cinza claro         | #d4d4d4    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%23d4d4d4) |
+| **Cor 5** | Cinza escuro        | #212121    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%23212121) |
 
 ## – Tipografia:
 
