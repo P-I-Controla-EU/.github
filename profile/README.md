@@ -25,6 +25,9 @@
   - [Viabilidade Operacional:](#3-viabilidade-operacional)
   - [Viabilidade de Mercado:](#4-viabilidade-de-mercado)
 - [Regras de Negócio](#regras-de-negócio)
+- [Diagramas UML](#diagramas-uml)
+  - [Diagrama de Casos de Uso](#-diagrama-de-casos-de-uso)
+  - [Diagrama de Classes](#-diagrama-de-classes)
 - [Design](#design-do-projeto)
   - [Paleta de Cores](#-paleta-de-cores)
   - [Wireframes](#-wireframes)
@@ -124,9 +127,11 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3, Ja
 
 - **RNF05 – Apresentar boa compatibilidade:** O sistema deve ser funcional em diferentes navegadores, como Firefox, Chrome, Edge, dentre outros.
 
-- **RNF06 – Intuitivo e de fácil navegação:** O sistema deve apresentar navegação interna intuitiva e consistente, a fim de confortar e satisfazer o usuário, mantendo uma curva de aprendizado não tão alta.
+- **RNF06 – Stack Tecnológica:** O sistema apresenta as tecnologias HTML5, CSS3 (Bootstrap), JavaScript, PHP, e MariaDB 10.4.
 
-- **RNF07 – Boa performance:** O sistema e suas diferentes páginas devem carregar e salvar informações de maneira rápida.
+- **RNF07 – Intuitivo e de fácil navegação:** O sistema deve apresentar navegação interna intuitiva e consistente, a fim de confortar e satisfazer o usuário, mantendo uma curva de aprendizado não tão alta.
+
+- **RNF08 – Boa performance:** O sistema e suas diferentes páginas devem carregar e salvar informações de maneira rápida.
 
 <div align= "end">
 
@@ -175,6 +180,20 @@ Projeto não tão viável, visa público-alvo pouco explorado porém há empresa
 </div>
 
 <hr>
+
+# **Diagramas UML.**
+
+## – Diagrama de Casos de Uso
+
+![CasosDeUso-Black](/profile/images/diagrama-casos-de-uso-controlaseu-black.drawio.png#gh-white-mode-only)
+
+![CasosDeUso-White](/profile/images/diagrama-casos-de-uso-controlaseu-white.drawio.png#gh-dark-mode-only)
+
+## – Diagrama de Classes
+
+![Classes-Black](/profile/images/diagrama-de-classes-controlaseu-black.drawio.png#gh-white-mode-only)
+
+![Classes-White](/profile/images/diagrama-de-classes-controlaseu-white.drawio.png#gh-black-mode-only)
 
 # **Design do Projeto.**
 
