@@ -171,7 +171,7 @@ Projeto não tão viável, visa público-alvo pouco explorado porém há empresa
 
 ## – Modelo de negócio Canvas
 
-![ModeloCanvas](/profile/images/ModeloNegocios.png)
+![ModeloCanvas](/profile/images/modelo-canva-atualizado.png)
 
 <div align= "end">
 
