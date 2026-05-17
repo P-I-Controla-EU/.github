@@ -185,15 +185,15 @@ Projeto não tão viável, visa público-alvo pouco explorado porém há empresa
 
 ## – Diagrama de Casos de Uso
 
-![CasosDeUso-Black](/profile/images/diagrama-casos-de-uso-controlaseu-black.drawio.png#gh-white-mode-only)
+![CasosDeUso-Black](/profile/images/diagrama-casos-de-uso-controlaseu-black.drawio.png#gh-light-mode-only)
 
 ![CasosDeUso-White](/profile/images/diagrama-casos-de-uso-controlaseu-white.drawio.png#gh-dark-mode-only)
 
 ## – Diagrama de Classes
 
-![Classes-Black](/profile/images/diagrama-de-classes-controlaseu-black.drawio.png#gh-white-mode-only)
+![Classes-Black](/profile/images/diagrama-de-classes-controlaseu-black.drawio.png#gh-light-mode-only)
 
-![Classes-White](/profile/images/diagrama-de-classes-controlaseu-white.drawio.png#gh-black-mode-only)
+![Classes-White](/profile/images/diagrama-de-classes-controlaseu-white.drawio.png#gh-dark-mode-only)
 
 # **Design do Projeto.**
 
