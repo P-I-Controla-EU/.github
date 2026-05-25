@@ -2,11 +2,11 @@
 
 # Projeto **"Controla$EU"**
 
-![Logo LightMode](/profile/images/logo-git-white.png#gh-light-mode-only) ![Logo DarkMode](images/logo-git-dark.png#gh-dark-mode-only)
+![Logo LightMode](images/logo-git-white.png#gh-light-mode-only) ![Logo DarkMode](images/logo-git-dark.png#gh-dark-mode-only)
 
 **Autores:**
 
-[Arthur Cabral](https://github.com/Abcabral827), [Gabriel Campanhã](https://github.com/GabrielCampas), [Guilherme Claro Pereira](https://github.com/guipereiradev), [João Guilherme Pascolat](https://github.com/joaoguidias).
+[Arthur Cabral](https://github.com/Abcabral827), [Gabriel Campanhã](https://github.com/GabrielCampas) e [Guilherme Claro Pereira](https://github.com/guipereiradev).
 
 </div>
 
@@ -171,7 +171,7 @@ Projeto não tão viável, visa público-alvo pouco explorado porém há empresa
 
 ## – Modelo de negócio Canvas
 
-![ModeloCanvas](/profile/images/modelo-canva-atualizado.png)
+![ModeloCanvas](images/modelo-canva-atualizado.png)
 
 <div align= "end">
 
@@ -185,15 +185,15 @@ Projeto não tão viável, visa público-alvo pouco explorado porém há empresa
 
 ## – Diagrama de Casos de Uso
 
-![CasosDeUso-Black](/profile/images/diagrama-casos-de-uso-controlaseu-black.drawio.png#gh-light-mode-only)
+![CasosDeUso-Black](images/diagrama-casos-de-uso-controlaseu-black.drawio.png#gh-light-mode-only)
 
-![CasosDeUso-White](/profile/images/diagrama-casos-de-uso-controlaseu-white.drawio.png#gh-dark-mode-only)
+![CasosDeUso-White](images/diagrama-casos-de-uso-controlaseu-white.drawio.png#gh-dark-mode-only)
 
 ## – Diagrama de Classes
 
-![Classes-Black](/profile/images/diagrama-de-classes-controlaseu-black.drawio.png#gh-light-mode-only)
+![Classes-Black](images/diagrama-de-classes-controlaseu-black.drawio.png#gh-light-mode-only)
 
-![Classes-White](/profile/images/diagrama-de-classes-controlaseu-white.drawio.png#gh-dark-mode-only)
+![Classes-White](images/diagrama-de-classes-controlaseu-white.drawio.png#gh-dark-mode-only)
 
 # **Design do Projeto.**
 
